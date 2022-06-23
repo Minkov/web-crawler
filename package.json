@@ -20,7 +20,7 @@
   "dependencies": {
     "casper": "^0.1.1",
     "jquery": "^3.4.1",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "node-fetch": "^2.6.0"
   }
 }
